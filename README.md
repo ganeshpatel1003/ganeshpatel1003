@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Ganesh Patel
 
-<!--
-**ganeshpatel1003/ganeshpatel1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+🔐 Cybersecurity Student
 
-Here are some ideas to get you started:
+Building products that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- TypeScript
+- Supabase
+- Node.js
+
+## 🚀 Current Project
+
+### IdeaFlow
+
+A platform where ideas are validated through community voting and transformed into real products.
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
